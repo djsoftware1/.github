@@ -4,13 +4,13 @@ We build high-performance, cross-platform software, and here make available sele
 
 ## 📦 Featured Open Source or Source Available Tools
 
-| Tool | Description |
-| :--- | :--- |
-| [**for-each**](https://github.com/djsoftware1/for-each) | Run commands per line of input with variable support. MIT license. |
-| [**runai**](https://github.com/djsoftware1/runai) | CLI for AI-driven development and automation. MIT license. |
-| [**clipx**](https://github.com/djsoftware1/clipx) | Easy cross-platform piping to/from the system clipboard. BSL. |
-| [**runai-publish**](https://github.com/djsoftware1/runai-publish/) | Python library and CLI for publishing text and document sources to production-friendly output formats. BSL. |
-| [**keep-going**](https://github.com/djsoftware1/keep-going) | A tiny utility for terminal morale and persistence. MIT license.|
+| Tool | Description | License |
+| :--- | :--- | :--- |
+| [**for-each**](https://github.com/djsoftware1/for-each) | Run commands per line of input with variable support. | MIT |
+| [**runai**](https://github.com/djsoftware1/runai) | CLI for AI-driven development and automation. | MIT |
+| [**clipx**](https://github.com/djsoftware1/clipx) | Easy cross-platform piping to/from the system clipboard. | BSL |
+| [**runai-publish**](https://github.com/djsoftware1/runai-publish/) | Python library and CLI for publishing text and document sources to production-friendly output formats. | BSL |
+| [**keep-going**](https://github.com/djsoftware1/keep-going) | A tiny utility for terminal morale and persistence. | MIT |
 
 ![examples](../media/dj-software-open-utils-for-each-examples.png)
 
