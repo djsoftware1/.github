@@ -62,6 +62,9 @@ The core productivity utilities are released under the **MIT License**, while ot
 
 [![Concept - Molecular](https://davidjoffe.github.io/media/concept-mockup-longevity-molecular-sim.png)](https://davidjoffe.github.io/research/)
 
+## [Language Software](https://tshwanedje.com/)
+
+Scalabe, professional tools for lexicography, terminology, corpus, translation and other language work - powering dictionary projects and language workflows across multiple contexts.
 
 -----
 
