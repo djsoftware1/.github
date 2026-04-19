@@ -56,6 +56,13 @@ clipx -p | for-each git clone
 
 The core productivity utilities are released under the **MIT License**, while others, such as runai and runai-publish, are released under Business Source License. Contributions and feedback are always welcome!
 
+## RunAI Studio and Molecular Sim Research Concept
+
+[![RunAI Studio](https://davidjoffe.github.io/media/longevity-runai-studio.png)](https://djsoftware.tech/runai-studio/)
+
+[![Concept - Molecular](https://davidjoffe.github.io/media/concept-mockup-longevity-molecular-sim.png)](https://davidjoffe.github.io/research/)
+
+
 -----
 
 [DJ Software and Technology Website](https://djsoftware.tech/) | [LinkedIn](https://www.linkedin.com/company/dj-software/), [language software](https://www.linkedin.com/company/tshwanedje)
