@@ -12,6 +12,8 @@ We build high-performance, cross-platform developer utilities designed to make t
 | [**runai-publish**](https://github.com/djsoftware1/runai-publish/) | Python library and CLI for publishing text and document sources to production-friendly output formats. BSL. |
 | [**keep-going**](https://github.com/djsoftware1/keep-going) | A tiny utility for terminal morale and persistence. MIT license.|
 
+![examples](../media/dj-software-open-utils-for-each-examples.png)
+
 ## 💡 Workflow Integration
 
 Our tools are designed to work together following the Unix philosophy.
@@ -23,7 +25,6 @@ Attach files directly to AI prompts across a whole project:
 ```bash
 ls *.py | for-each runai -t "Add docstrings and type hints" --attach $1
 ```
-
 ### Agentic AI Chaining
 
 Create multi-step AI workflows by piping `runai` or `computer` outputs into `for-each`:
