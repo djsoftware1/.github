@@ -66,6 +66,10 @@ The core productivity utilities are released under the **MIT License**, while ot
 
 Scalabe, professional tools for lexicography, terminology, corpus, translation and other language work - powering dictionary projects and language workflows across multiple contexts.
 
+## [Chatbot/Robot Software and Framework](https://djoffe.com/dj-software/chat/)
+
+A flexible, customisable engine for integrated AI chatbot/robot applications.
+
 -----
 
 [DJ Software and Technology Website](https://djsoftware.tech/) | [LinkedIn](https://www.linkedin.com/company/dj-software/), [language software](https://www.linkedin.com/company/tshwanedje)
