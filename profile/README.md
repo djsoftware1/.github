@@ -72,7 +72,7 @@ A flexible, customisable engine for integrated AI chatbot/robot applications.
 
 ## Other:
 
-* [CUDA samples](https://github.com/djsoftware1/dj-cuda-samples) scaling to millions of particles, and including LJ molecular sim sample (BSL)
+* [CUDA samples](https://github.com/djsoftware1/dj-cuda-samples) scaling to millions of particles on a laptop GPU, and including LJ molecular sim sample (BSL)
 
 -----
 
