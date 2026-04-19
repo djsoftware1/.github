@@ -46,6 +46,9 @@ cat README.md | clipx
 
 # Use clipboard content to create files
 clipx -p > newfile.txt
+
+# For each URL on the clipboard do git clone
+clipx -p | for-each git clone
 ```
 
 ## 📜 License
