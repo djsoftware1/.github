@@ -9,7 +9,7 @@ We build high-performance, cross-platform developer utilities designed to make t
 | [**for-each**](https://github.com/djsoftware1/for-each) | Run commands per line of input with variable support. |
 | [**runai**](https://github.com/djsoftware1/runai) | CLI for AI-driven development and automation. |
 | [**clipx**](https://github.com/djsoftware1/clipx) | Easy cross-platform piping to/from the system clipboard. |
-| [**keep-going**](https://www.google.com/search?q=https://github.com/djsoftware1/keep-going) | A tiny utility for terminal morale and persistence. |
+| [**keep-going**](https://github.com/djsoftware1/keep-going) | A tiny utility for terminal morale and persistence. |
 
 ## 💡 Workflow Integration
 
@@ -53,4 +53,4 @@ The core productivity utilities are released under the **MIT License**, while ot
 
 -----
 
-[Website](https://djsoftware.tech/) | [LinkedIn](https://www.google.com/search?q=https://www.linkedin.com/company/dj-software/)
+[Website](https://djsoftware.tech/) | [LinkedIn](https://www.linkedin.com/company/dj-software/) and [language software](https://www.linkedin.com/company/tshwanedje)
