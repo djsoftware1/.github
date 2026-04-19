@@ -70,6 +70,10 @@ Scalabe, professional tools for lexicography, terminology, corpus, translation a
 
 A flexible, customisable engine for integrated AI chatbot/robot applications.
 
+## Other:
+
+* [CUDA samples](https://github.com/djsoftware1/dj-cuda-samples) scaling to millions of particles, and including LJ molecular sim sample (BSL)
+
 -----
 
 [DJ Software and Technology Website](https://djsoftware.tech/) | [LinkedIn](https://www.linkedin.com/company/dj-software/), [language software](https://www.linkedin.com/company/tshwanedje)
