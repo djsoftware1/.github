@@ -2,7 +2,7 @@
 
 We build high-performance, cross-platform developer utilities designed to make the terminal more powerful and AI-integrated.
 
-## 📦 Featured Open Source Tools
+## 📦 Featured Open Source or Source Available Tools
 
 | Tool | Description |
 | :--- | :--- |
