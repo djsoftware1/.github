@@ -6,10 +6,11 @@ We build high-performance, cross-platform developer utilities designed to make t
 
 | Tool | Description |
 | :--- | :--- |
-| [**for-each**](https://github.com/djsoftware1/for-each) | Run commands per line of input with variable support. |
-| [**runai**](https://github.com/djsoftware1/runai) | CLI for AI-driven development and automation. |
-| [**clipx**](https://github.com/djsoftware1/clipx) | Easy cross-platform piping to/from the system clipboard. |
-| [**keep-going**](https://github.com/djsoftware1/keep-going) | A tiny utility for terminal morale and persistence. |
+| [**for-each**](https://github.com/djsoftware1/for-each) | Run commands per line of input with variable support. MIT license. |
+| [**runai**](https://github.com/djsoftware1/runai) | CLI for AI-driven development and automation. MIT license. |
+| [**clipx**](https://github.com/djsoftware1/clipx) | Easy cross-platform piping to/from the system clipboard. BSL. |
+| [**runai-publish**](https://github.com/djsoftware1/runai-publish/) | Python library and CLI for publishing text and document sources to production-friendly output formats. BSL. |
+| [**keep-going**](https://github.com/djsoftware1/keep-going) | A tiny utility for terminal morale and persistence. MIT license.|
 
 ## 💡 Workflow Integration
 
@@ -53,4 +54,4 @@ The core productivity utilities are released under the **MIT License**, while ot
 
 -----
 
-[Website](https://djsoftware.tech/) | [LinkedIn](https://www.linkedin.com/company/dj-software/) and [language software](https://www.linkedin.com/company/tshwanedje)
+[DJ Software and Technology Website](https://djsoftware.tech/) | [LinkedIn](https://www.linkedin.com/company/dj-software/), [language software](https://www.linkedin.com/company/tshwanedje)
