@@ -1,4 +1,4 @@
-# DJ Software & Technology 🚀
+# DJ Software & Technology
 
 We build high-performance, cross-platform software, and here make available selected utilities designed to make the terminal more powerful and AI-integrated.
 
