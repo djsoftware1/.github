@@ -64,11 +64,11 @@ The core productivity utilities are released under the **MIT License**, while ot
 
 ## [Language Software](https://tshwanedje.com/)
 
-Scalabe, professional tools for lexicography, terminology, corpus, translation and other language work - powering dictionary projects and language workflows across multiple contexts.
+Scalable, professional tools for lexicography, terminology, corpus, translation and other language work - powering dictionary projects and language workflows across multiple continents.
 
 ## [Chatbot/Robot Software and Framework](https://djoffe.com/dj-software/chat/)
 
-A flexible, customisable engine for integrated AI chatbot/robot applications.
+A flexible, customisable 'engine' for integrated AI chatbot/robot applications. AI assistants, language tutors, educational chatbots and more. Commercial licensing of platform.
 
 ## Other:
 
