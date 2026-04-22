@@ -70,6 +70,8 @@ Scalable, professional tools for lexicography, terminology, corpus, translation 
 
 A flexible, customisable 'engine' for integrated AI chatbot/robot applications. AI assistants, language tutors, educational chatbots and more. Commercial licensing of platform.
 
+[![French AI Tutor](https://djoffe.com/dj-software/chat/media/dj_chatbot_screenshot.webp)](https://djsoftware.tech/chat/)
+
 ## Other:
 
 * [CUDA samples](https://github.com/djsoftware1/dj-cuda-samples) scaling to millions of particles on a laptop GPU, and including LJ molecular sim sample (BSL)
